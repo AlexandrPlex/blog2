@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400i|Titillium+Web:300,400,700');
+$backGroudColor: #cbcbcb;
+.hStyle{
+  background-color: $backGroudColor;
+  background: $backGroudColor; /* Для старых браузров */
+  background: linear-gradient(to top, $backGroudColor, #4823f1);
+  padding: 10px;
+  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  display: -webkit-flex; /* Safari */
+  display: flex;
+}
