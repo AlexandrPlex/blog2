@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Snaphot 1`] = `
+<div
+  className="headerStyle"
+>
+  <h1
+    className="logo"
+  >
+    Footer
+  </h1>
+</div>
+`;

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400i|Titillium+Web:300,400,700');
+@import "../../config";
+.headerStyle{
+  $gradient_0: #4460f1;
+  $gradient_1: #000000;
+  $logoColor: #ffffff;
+  $font:'Titillium Web', sans-serif;
+  background: $mainBackground; /* Для старых браузров */
+  background: radial-gradient($gradient_0, $gradient_1);
+  padding: 10px;
+  overflow: hidden;
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  .logo{
+    color: $logoColor;
+    font-family: $font;
+    margin-top: 0px;
+  }
+}

@@ -106,6 +106,7 @@
     "flow-bin": "^0.80.0",
     "mini-css-extract-plugin": "^0.4.2",
     "node-sass": "^4.9.3",
+    "react-test-renderer": "^16.5.0",
     "sass-loader": "^7.1.0"
   }
 }

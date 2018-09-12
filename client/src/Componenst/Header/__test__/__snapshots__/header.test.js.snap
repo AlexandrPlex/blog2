@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Snaphot 1`] = `
+<div
+  className="headerStyle"
+>
+  <h1
+    className="logo"
+  >
+    Aplex for creating
+  </h1>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="headerStyle"
+>
+  <h1
+    className="logo"
+  >
+    Aplex for creating
+  </h1>
+</div>
+`;
